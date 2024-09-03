@@ -1,5 +1,6 @@
 package com.alibaba.datax.plugin.reader.oceanbasev10reader.util;
 
+import com.alibaba.datax.common.element.Record;
 import com.alibaba.datax.common.element.*;
 import com.alibaba.datax.plugin.rdbms.reader.util.ObVersion;
 import com.alibaba.datax.plugin.rdbms.reader.util.SingleTableSplitUtil;
