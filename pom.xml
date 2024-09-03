@@ -61,10 +61,10 @@
         <module>odpsreader</module>
         <module>otsreader</module>
         <module>otsstreamreader</module>
-        <module>hbase11xreader</module>
-        <module>hbase094xreader</module>
-        <module>hbase11xsqlreader</module>
-        <module>hbase20xsqlreader</module>
+<!--        <module>hbase11xreader</module>-->
+<!--        <module>hbase094xreader</module>-->
+<!--        <module>hbase11xsqlreader</module>-->
+<!--        <module>hbase20xsqlreader</module>-->
 
         <module>ossreader</module>
         <module>hdfsreader</module>
@@ -103,10 +103,10 @@
         <module>odpswriter</module>
         <module>osswriter</module>
         <module>otswriter</module>
-        <module>hbase11xwriter</module>
-        <module>hbase094xwriter</module>
-        <module>hbase11xsqlwriter</module>
-        <module>hbase20xsqlwriter</module>
+<!--        <module>hbase11xwriter</module>-->
+<!--        <module>hbase094xwriter</module>-->
+<!--        <module>hbase11xsqlwriter</module>-->
+<!--        <module>hbase20xsqlwriter</module>-->
         <module>kuduwriter</module>
         <module>ftpwriter</module>
         <module>hdfswriter</module>
